@@ -1,0 +1,5 @@
+345 john male
+535 may female
+678 joyce female
+123 jack male
+234 jack male

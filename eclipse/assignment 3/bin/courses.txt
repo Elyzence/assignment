@@ -1,0 +1,6 @@
+0002 c# 5 Tuesday(19:00-22:00)
+0004 python 3 Tuesday(19:00-22:00)
+0006 Javascript 4 Monday(09:00-12:00)
+0003 c++ 5 Thursday(19:00-22:00)
+0012 mysql 4 Monday(11:00-14:00)
+0007 html 1 Monday(09:00-12:00)

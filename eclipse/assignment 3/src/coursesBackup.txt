@@ -1,0 +1,4 @@
+0001 Java 5 Friday(9:00-11:00)
+0002 c# 5 Tuesday(19:00-22:00)
+0004 python 3 Tuesday(19:00-22:00)
+0006 Javascript 9 Monday(9:00-12:00)
